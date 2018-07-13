@@ -3,15 +3,15 @@
 
 > 社区成员成长方向
 
-1. 技术方向
+1. [技术方向](https://github.com/QOMOKDE/LearningPath/blob/master/technicalRoute/technicalRoute.md)
     * 系统制作
     * Qt开发
     * 内核基础
   
-2. 翻译方向
+2. [翻译方向](https://github.com/QOMOKDE/LearningPath/blob/master/translateRoute/translateRoute.md)
     * KDE汉化
   
-3. 社区运营
+3. [社区运营](https://github.com/QOMOKDE/LearningPath/blob/master/operationRoute/operationRoute.md)
     * 社区公众号运营
     * 社区网站版块版主
 	* 网站文章编辑
